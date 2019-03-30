@@ -1,4 +1,4 @@
-export interface Marvel{
+export interface marvel{
   id: number,
   movie : string,
   img : string,

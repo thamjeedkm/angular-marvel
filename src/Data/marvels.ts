@@ -1,4 +1,5 @@
-export const Marvels: any = [
+
+export const marvels: any = [
   {
     id: 1,
     movie: "Avengers",
